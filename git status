@@ -1,0 +1,55 @@
+[33mcommit 6a0cfab08fcdffb9aa0d00ec61f3c44da93d44c5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mmerge2[m[33m)[m
+Merge: 78f199f a96557b
+Author: Tyler Atkins <t367a002@ku.edu>
+Date:   Thu Jan 27 13:49:32 2022 -0600
+
+    Merge branch 'experiment'
+    code.txt commit 5
+
+[33mcommit 78f199f3db3f1f41604fe991a323018bcbb4bb8a[m
+Author: Tyler Atkins <t367a002@ku.edu>
+Date:   Thu Jan 27 13:45:38 2022 -0600
+
+    code.txt commit 4
+
+[33mcommit a96557b16d4abe455d51552d267e20163c641220[m[33m ([m[1;32mexperiment[m[33m)[m
+Author: Tyler Atkins <t367a002@ku.edu>
+Date:   Thu Jan 27 13:44:54 2022 -0600
+
+    code.txt 3rd commit
+
+[33mcommit 50be5a7bcf8a48ece4bc9f7ff86a3744fe133f42[m
+Author: Tyler Atkins <t367a002@ku.edu>
+Date:   Thu Jan 27 13:43:07 2022 -0600
+
+    code.txt commit 2
+
+[33mcommit 80b1fc3f764acbf716c7d00ccbb579fb1c1697f3[m
+Author: Tyler Atkins <t367a002@ku.edu>
+Date:   Thu Jan 27 13:40:20 2022 -0600
+
+    code.txt commit 1
+
+[33mcommit 3307126a33d857db7775ae932fb7afa3133a98fe[m
+Author: Tyler Atkins <t367a002@ku.edu>
+Date:   Thu Jan 27 13:35:35 2022 -0600
+
+    This is the third commit - code.txt
+
+[33mcommit 0a59c6d9633ba8fdff85890bc245450731aed760[m
+Author: Tyler Atkins <t367a002@ku.edu>
+Date:   Thu Jan 27 13:34:19 2022 -0600
+
+    This is the third commit - code.txt
+
+[33mcommit 4bd21eb746d6bbb0257b13d75831fa6639fc603a[m[33m ([m[1;32msolo[m[33m)[m
+Author: Tyler Atkins <t367a002@ku.edu>
+Date:   Thu Jan 27 13:25:54 2022 -0600
+
+    This is the Second Commit
+
+[33mcommit e35ff347253aba84eb5b40334877866e4615fe95[m
+Author: Tyler Atkins <t367a002@ku.edu>
+Date:   Thu Jan 27 13:19:36 2022 -0600
+
+    First Commit - Lab 1
